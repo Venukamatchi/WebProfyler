@@ -18,8 +18,8 @@ A comprehensive tool for gathering detailed information about websites, includin
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/website-profiling-tool.git
-   cd website-profiling-tool
+   git clone https://github.com/Venukamatchi/WebProfyler.git
+   cd WebProfyler
    ```
 
 2. **Install Dependencies**
@@ -35,7 +35,7 @@ A comprehensive tool for gathering detailed information about websites, includin
 Run the script and follow the prompts:
 
 ```bash
-python website_profiling_tool.py
+python3 WebProfyler.py
 ```
 
 You will be prompted to enter the website URL. The tool will then display a series of panels with information about the website.
