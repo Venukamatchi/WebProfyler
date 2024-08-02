@@ -1,0 +1,4 @@
+requests
+pyOpenSSL
+dnspython
+
